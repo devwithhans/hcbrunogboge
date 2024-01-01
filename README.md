@@ -1,6 +1,6 @@
-# 👋 Welcome to Hans-Christian's GitHub Profile!
+# 👋 Welcome to my GitHub Profile!
 
-Hej! I'm Hans-Christian, a passionate developer from the beautiful country of Denmark. I'm currently immersing myself in the exciting world of mobile app development for a dynamic start-up.
+Hej! I'm Hans-Christian, a passionate developer from the beautiful country of Denmark. I'm currently immersing myself in the exciting world of fullstack development for a dynamic start-up.
 
 ## What I'm Up To:
 
